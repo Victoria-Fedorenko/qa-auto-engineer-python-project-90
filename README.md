@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/Victoria-Fedorenko/qa-auto-engineer-python-project-90/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Victoria-Fedorenko/qa-auto-engineer-python-project-90/actions)
